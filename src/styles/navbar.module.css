@@ -1,0 +1,17 @@
+#background{
+    background-color: aquamarine;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+#background a{
+    font-weight: 500;
+    font-size: clamp(16px, 1.5vw, 1.5rem);
+    transition-duration: 250ms;
+    padding:0%;
+}
+#background a:hover{
+    background-color: white;
+    color:black;
+}
