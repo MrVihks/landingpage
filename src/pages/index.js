@@ -9,7 +9,7 @@ export default function Home() {
           <title>Inicio|Home</title>
         </Head>
         <main>
-
+            <a className='fa-solid fa-house'></a>
         </main>
     </div>
   )
